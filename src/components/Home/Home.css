@@ -1,0 +1,49 @@
+body{
+    overflow-x:hidden;
+}
+.paralax{
+    position:absolute;
+    height:100%;
+}
+.paralax-item{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+}
+.p-item1{
+    background: url('45-degree-fabric-light.png') center/cover no-repeat;
+}
+.p-item3{
+    background: url('45-degree-fabric-light.png') bottom/100% no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: 2;
+}  
+.p-item3{
+    background: url('45-degree-fabric-light.png') bottom/100% no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: 2;
+}  
+.p-item4{
+    background: url('45-degree-fabric-light.png') repeat-x;
+    top:0;
+    left:0;
+    width:10000%;
+    height:100%;
+    content:'';
+    background-size: contain;
+    background-position: center;
+    animation:marquee 20s linear infinite;
+}  
+@keyframes marquee{
+    0%{
+        transform:translate3d(0,0,0);
+    }
+    100%{
+        transform:translate3d(-200vw,0,0);
+    }
+
+}
