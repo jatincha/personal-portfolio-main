@@ -11,7 +11,7 @@ const projects = [
     title: 'Synoriq',
     position: 'Associate Software Engineering 3',
     date: 'Jan 2022 - present',
-    description: 'Created a mobile app chatbot using React.js and Spring Boot to help business teams working with Ultra-High-Net-Worth clients in accessing asset and liability information on the go. Built the UI and custom quick chat functionality based on response data from the bot\’s conversation API.'
+    description: 'Created a mobile app chatbot using React.js and Spring Boot to help business teams working with Ultra-High-Net-Worth clients in accessing asset and liability information on the go. Built the UI and custom quick chat functionality based on response data from the bots conversation API.'
 },
 { 
     id: 2,

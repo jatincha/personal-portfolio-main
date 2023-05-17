@@ -1,7 +1,5 @@
 import React, { useRef } from 'react';
 import './Contact.css';
-import { HiOutlineMail } from 'react-icons/hi';
-import { BsLinkedin } from 'react-icons/bs';
 import emailjs from 'emailjs-com';
 import animationData from '../../lotties/contact.json';
 import { Player } from '@lottiefiles/react-lottie-player';
