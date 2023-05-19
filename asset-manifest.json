@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.a2ba9515.css",
+    "main.js": "/personal-portfolio/static/js/main.1f9ea749.js",
+    "static/media/resume.pdf": "/personal-portfolio/static/media/resume.ddc258f0452fc6255ba2.pdf",
+    "static/media/45-degree-fabric-light.png": "/personal-portfolio/static/media/45-degree-fabric-light.3e9170690495094b2f13.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.a2ba9515.css.map": "/personal-portfolio/static/css/main.a2ba9515.css.map",
+    "main.1f9ea749.js.map": "/personal-portfolio/static/js/main.1f9ea749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ba9515.css",
+    "static/js/main.1f9ea749.js"
+  ]
+}
